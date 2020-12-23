@@ -5,7 +5,7 @@
     <property name="Flow Storage Directory">./flow_storage</property>
     <property name="Remote To Push">origin</property>
     <property name="Remote Access User">tatianamara</property>
-    <property name="Remote Access Password">76f2778abca5e903af9aa7ac3dbf9fe67f0f38df</property>
+    <property name="Remote Access Password"></property>
     <property name="Remote Clone Repository"/>
   </flowPersistenceProvider>
   <extensionBundlePersistenceProvider>
